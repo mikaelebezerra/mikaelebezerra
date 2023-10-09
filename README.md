@@ -41,7 +41,7 @@
 <h3>My latest posts</h3>
 <ul>
 
-  <li><a href="https://medium.com/@mikaelebezerra/100diasdecodigos-1-2-3-4-5-100-01294589832e"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 100 Dias de Código,post mostrandoos 4 primeiros dias estudando FrontEnd e aplicando</i></li>
+   <li><a href="https://www.instagram.com/p/CxyYo8xpODh/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> #100DiasDeCodigo</b></a><br/><i>Os primeiros 4 dias de aplicação do que aprendi em HTML e CSS.</i></li>
  
   <li><a href="https://www.instagram.com/p/CxyYo8xpODh/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> O que ando aprendendo na programação</b></a><br/><i>Vídeo mostrando a minha evolução.</i></li>
   
